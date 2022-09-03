@@ -1,9 +1,13 @@
 ### Hi there friends, I am Ocean👋
 **I am a data scientist professional based in Taiwan ✨ ✨ 
-Here is my way of 
 
-I know this sounds a little bit offensive and rebell for many professors and recruiters.
-but I think
+Here I will share some kaggle data science projects mainly focused on Medicine and Finance, of course sometimes there will a few exceptions
+
+Fisrt of all : I will
+is my way of 
+
+I know this sounds quite offensive and rebellious for many professors and recruiters,
+but I think encouraging everyone to upload their code to Github is a very stupid request and wrongful behavior.
 
 There are tons and tons of garbage codes being uploaded or I shall say dumped into github everyday, and minutes.
 
