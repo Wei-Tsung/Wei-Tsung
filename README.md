@@ -25,9 +25,9 @@ This is a tragedy for this outstanding platform that is being misused, and this 
 I will definitely avoid this path that many other people are taking.
 
 I'll stick to the principle of Occam's Razor : Less is more.
-If I really find some data science projects very innovative or interesting, provided time allow, I will upload to the github, otherwise I won't do that.
+If I really find some data science projects very innovative or interesting, provided time allow, I will upload to the github, otherwise I won't do that .
 
-If I find something interesting, but the contents are not mature enought
+If I find something interesting, but the contents are not mature enough
 I will strictly keep the content private only to myself.
 
 <!--
