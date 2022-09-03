@@ -13,13 +13,12 @@ These people are not doing it out of their own consciensness, but rather doing i
 
 I have 
 
-As a matter of truth, Github is not a place for general people keep uploading
-but a open-source of platform encourages people to share their discovery, and invention, innovative ideas.
+As a matter of truth, Github is not a place for general people keep uploading their homeworks and projects.
+but a open-source platform encourages people to share their unique discoveries, and great invention, innovative ideas or elegant pieces of code.
 
-Many lousy professors mistaken it, so they asked all of students upload their homeworks and projects on github, creating lots of noises.
+Many lousy professors mistaken it, so they asked all of students to upload their weekly homeworks and projects on github, creating lots of noises on the repo.
 
-However 
-this is a tragedy for this outstanding platform.
+This is a tragedy for this outstanding platform.
 
 I will definitely avoid this path
 If I
